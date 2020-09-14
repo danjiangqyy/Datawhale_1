@@ -1,0 +1,17 @@
+Task2 数据分析
+此部分为零基础入门金融风控的 Task2 数据分析部分，带你来了解数据，熟悉数据，为后续的特征工程做准备，欢迎大家后续多多交流。
+
+赛题：零基础入门数据挖掘 - 零基础入门金融风控之贷款违约
+
+目的：
+
+1.EDA价值主要在于熟悉了解整个数据集的基本情况（缺失值，异常值），对数据集进行验证是否可以进行接下来的机器学习或者深度学习建模.
+
+2.了解变量间的相互关系、变量与预测值之间的存在关系。
+
+3.为特征工程做准备
+
+项目地址：https://github.com/datawhalechina/team-learning-data-mining/tree/master/FinancialRiskControl
+
+比赛地址：https://tianchi.aliyun.com/competition/entrance/531830/introduction
+
